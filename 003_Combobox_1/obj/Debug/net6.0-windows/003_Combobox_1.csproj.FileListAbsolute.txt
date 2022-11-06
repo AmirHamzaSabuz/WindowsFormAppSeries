@@ -1,0 +1,17 @@
+C:\DotNetWorkingSpace_dotnetcore6\WinFormPractice\003_Combobox_1\bin\Debug\net6.0-windows\003_Combobox_1.exe
+C:\DotNetWorkingSpace_dotnetcore6\WinFormPractice\003_Combobox_1\bin\Debug\net6.0-windows\003_Combobox_1.deps.json
+C:\DotNetWorkingSpace_dotnetcore6\WinFormPractice\003_Combobox_1\bin\Debug\net6.0-windows\003_Combobox_1.runtimeconfig.json
+C:\DotNetWorkingSpace_dotnetcore6\WinFormPractice\003_Combobox_1\bin\Debug\net6.0-windows\003_Combobox_1.dll
+C:\DotNetWorkingSpace_dotnetcore6\WinFormPractice\003_Combobox_1\bin\Debug\net6.0-windows\003_Combobox_1.pdb
+C:\DotNetWorkingSpace_dotnetcore6\WinFormPractice\003_Combobox_1\obj\Debug\net6.0-windows\003_Combobox_1.csproj.AssemblyReference.cache
+C:\DotNetWorkingSpace_dotnetcore6\WinFormPractice\003_Combobox_1\obj\Debug\net6.0-windows\_003_Combobox_1.Form1.resources
+C:\DotNetWorkingSpace_dotnetcore6\WinFormPractice\003_Combobox_1\obj\Debug\net6.0-windows\003_Combobox_1.csproj.GenerateResource.cache
+C:\DotNetWorkingSpace_dotnetcore6\WinFormPractice\003_Combobox_1\obj\Debug\net6.0-windows\003_Combobox_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetWorkingSpace_dotnetcore6\WinFormPractice\003_Combobox_1\obj\Debug\net6.0-windows\003_Combobox_1.AssemblyInfoInputs.cache
+C:\DotNetWorkingSpace_dotnetcore6\WinFormPractice\003_Combobox_1\obj\Debug\net6.0-windows\003_Combobox_1.AssemblyInfo.cs
+C:\DotNetWorkingSpace_dotnetcore6\WinFormPractice\003_Combobox_1\obj\Debug\net6.0-windows\003_Combobox_1.csproj.CoreCompileInputs.cache
+C:\DotNetWorkingSpace_dotnetcore6\WinFormPractice\003_Combobox_1\obj\Debug\net6.0-windows\003_Combobox_1.dll
+C:\DotNetWorkingSpace_dotnetcore6\WinFormPractice\003_Combobox_1\obj\Debug\net6.0-windows\refint\003_Combobox_1.dll
+C:\DotNetWorkingSpace_dotnetcore6\WinFormPractice\003_Combobox_1\obj\Debug\net6.0-windows\003_Combobox_1.pdb
+C:\DotNetWorkingSpace_dotnetcore6\WinFormPractice\003_Combobox_1\obj\Debug\net6.0-windows\003_Combobox_1.genruntimeconfig.cache
+C:\DotNetWorkingSpace_dotnetcore6\WinFormPractice\003_Combobox_1\obj\Debug\net6.0-windows\ref\003_Combobox_1.dll
